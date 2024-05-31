@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TakeNotes</string>
+    <string name="greetings">Hello!</string>
+    <string name="error_downloading">Error in Downloading</string>
+    <string name="success_toast">Note(s) Saved in Documents</string>
+    <string name="no_internet">Uh-Oh!</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="failed_to_load_fnt">Failed to Upload Font</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="not_yet_in">You are not yet signed-in</string>
+    <string name="def_name_on_userInfo">Your Name</string>
+    <string name="def_email">email@takenotes.com</string>
+    <string name="sign_out_greeting">Signing you out and closing app</string>
+    <string name="notifications_admin_channel_name">Remote Notification Service</string>
+    <string name="notifications_admin_channel_description">Channel for Remote Firebase Events</string>
+    <string name="take_notes_image_to_be_displayed">https://the-rebooted-coder.github.io/Take-Notes/ample_time.png</string>
+    <string name="developer_page">https://the-rebooted-coder.github.io/Take-Notes/devs.html</string>
+    <string name="custom_font">https://www.calligraphr.com/en/</string>
+    <string name="developer">App Developed By One Silicon Diode ;)</string>
+    <string name="print">https://the-rebooted-coder.github.io/Take-Notes/loader.png</string>
+    <string name="advice">The TakeNotes folder should contain only images, check once!\n\nDelete or Move Unsupported Files\n\nPDF cannot be saved :(\n\nIn order to ensure privacy you need to sign in again</string>
+    <string name="instructions">From now Onwards you can export your entire TakeNotes Folder into a single PDF file\n\nEnsure that folder contains only those images which you need in the PDF while using this functionality\n\nHappy Note Taking!</string>
+    <string name="request_a_feature">Request a Feature</string>
+    <string name="developers">developers</string>
+    <string name="my_account">My Account</string>
+    <string name="privacy_info">Privacy Info</string>
+    <string name="privacy_policy"><b>Privacy Policy</b>\n\nOne Silicon Diode built the Take Notes app as an Open Source app. This SERVICE is provided by One Silicon Diode at no cost and is intended for use as is.\n\nIf you choose to use Take Notes, then you agree to the collection and use of information in relation to this policy. <b>NO Data is ever sent, saved or stored in any form neither on the device nor online.</b>\n\n<b>Contact Us</b>\nIf you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <i>connectwithspandan@gmail.com</i>.</string>
+    <string name="no_img">There were no images under the TakeNotes Folder\n\nSave the Image and Try Again!</string>
+    <string name="tutorial">Tutorial</string>
+    <!--    <string name="default_web_client_id">AIzaSyBChIEUjg7MUY3mPRGrxEHQKNZStiFSGWA</string>-->
+    //////////////////////////////////
+    <!--    <string name="default_web_client_id" translatable="false">706389973635-3m9rq770a0j2ugh376on1p9hbrpvb6j0.apps.googleusercontent.com</string>-->
+    <!--    <string name="default_web_client_id2" translatable="false">706389973635-3m9rq770a0j2ugh376on1p9hbrpvb6j0.apps.googleusercontent.com</string>-->
+
+    <!--    <string name="gcm_defaultSenderId2" translatable="false">706389973635</string>-->
+    <!--<string name="google_api_key2" translatable="false">AIzaSyBpctjVvrCZRdhDbeQr0LHK1YRucPoc9As</string>-->
+    <!--<string name="google_app_id2" translatable="false">1:706389973635:android:9cde768bfee1bd45d819b6</string>-->
+    <!--<string name="google_crash_reporting_api_key2" translatable="false">AIzaSyBpctjVvrCZRdhDbeQr0LHK1YRucPoc9As</string>-->
+    <!--<string name="google_storage_bucket2" translatable="false">gs://takennotes-e94db.appspot.com</string>-->
+    <!--<string name="project_id2" translatable="false">takennotes-e94db</string>-->
+    <!--</resources>-->
+    <!--&lt;!&ndash;    AIzaSyDqXn6lW8UqizkcbcWF_1R7v8WeVQrqF1c&ndash;&gt;-->
+
+</resources>

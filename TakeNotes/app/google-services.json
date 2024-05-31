@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195432200836",
+    "project_id": "takennotes-691a2",
+    "storage_bucket": "takennotes-691a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195432200836:android:5ddcbfada7acba4f4120d1",
+        "android_client_info": {
+          "package_name": "com.gnyapp.takenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195432200836-1r568vk99oleiag94tbf2jr5v3o4rnu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gnyapp.takenotes",
+            "certificate_hash": "3a2ad5822cda8ac94d88a1c635cbbccdf5bb2d55"
+          }
+        },
+        {
+          "client_id": "195432200836-4ad2p50pk298v5cu79d5vb78nv0q6avu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtt97pO7PL2e6bgAMYTDu4xBv9xcXlrvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195432200836-4ad2p50pk298v5cu79d5vb78nv0q6avu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
